@@ -1,0 +1,18 @@
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Client_Net\Client_Net\bin\Debug\Client_Net.exe
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Client_Net\Client_Net\bin\Debug\Client_Net.pdb
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Client_Net\Client_Net\obj\Debug\Client_Net.frmMain.resources
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Client_Net\Client_Net\obj\Debug\Client_Net.Properties.Resources.resources
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Client_Net\Client_Net\obj\Debug\Client_Net.csproj.GenerateResource.Cache
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Client_Net\Client_Net\obj\Debug\Client_Net.exe
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Client_Net\Client_Net\obj\Debug\Client_Net.pdb
+C:\Users\Shahin\Desktop\پروژه سیستم توزیعی\Client_Net\Client_Net\obj\Debug\Client_Net.exe
+C:\Users\Shahin\Desktop\پروژه سیستم توزیعی\Client_Net\Client_Net\obj\Debug\Client_Net.pdb
+C:\Users\Shahin\Desktop\پروژه سیستم توزیعی\Client_Net\Client_Net\bin\Debug\Client_Net.exe
+C:\Users\Shahin\Desktop\پروژه سیستم توزیعی\Client_Net\Client_Net\bin\Debug\Client_Net.pdb
+C:\Users\Shahin\Desktop\پروژه سیستم توزیعی\Client_Net\Client_Net\obj\Debug\Client_Net.frmMain.resources
+C:\Users\Shahin\Desktop\پروژه سیستم توزیعی\Client_Net\Client_Net\obj\Debug\Client_Net.Properties.Resources.resources
+C:\Users\Shahin\Desktop\پروژه سیستم توزیعی\Client_Net\Client_Net\obj\Debug\Client_Net.csproj.GenerateResource.Cache
+I:\My Projects\Client_Net\Client_Net\obj\Debug\Client_Net.exe
+I:\My Projects\Client_Net\Client_Net\obj\Debug\Client_Net.pdb
+D:\My Projects\Server-Client\Client_Net\Client_Net\obj\Debug\Client_Net.exe
+D:\My Projects\Server-Client\Client_Net\Client_Net\obj\Debug\Client_Net.pdb

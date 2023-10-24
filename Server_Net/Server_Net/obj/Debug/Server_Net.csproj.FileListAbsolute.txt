@@ -1,0 +1,9 @@
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Server_Net\Server_Net\obj\Debug\Server_Net.exe
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Server_Net\Server_Net\obj\Debug\Server_Net.pdb
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Server_Net\Server_Net\bin\Debug\Server_Net.exe
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Server_Net\Server_Net\bin\Debug\Server_Net.pdb
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Server_Net\Server_Net\obj\Debug\Server_Net.frmMain.resources
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Server_Net\Server_Net\obj\Debug\Server_Net.Properties.Resources.resources
+C:\Users\Shahin\Desktop\پروژه سوکت پروگرمینگ\Only Chat Simple\Only Chat (Simple )\Server_Net\Server_Net\obj\Debug\Server_Net.csproj.GenerateResource.Cache
+E:\درسی\دانشگاه آزاد کرمان\توزیعی نورمندی\پروژه سیستم توزیعی\Server_Net\Server_Net\obj\Debug\Server_Net.exe
+E:\درسی\دانشگاه آزاد کرمان\توزیعی نورمندی\پروژه سیستم توزیعی\Server_Net\Server_Net\obj\Debug\Server_Net.pdb

@@ -1,0 +1,16 @@
+C:\Documents and Settings\Amir\Desktop\Server_Net\Server_Net\bin\Debug\Server_Net.exe
+C:\Documents and Settings\Amir\Desktop\Server_Net\Server_Net\bin\Debug\Server_Net.pdb
+C:\Documents and Settings\Amir\Desktop\Server_Net\Server_Net\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amir\Desktop\Server_Net\Server_Net\obj\Debug\Server_Net.frmMain.resources
+C:\Documents and Settings\Amir\Desktop\Server_Net\Server_Net\obj\Debug\Server_Net.Properties.Resources.resources
+C:\Documents and Settings\Amir\Desktop\Server_Net\Server_Net\obj\Debug\Server_Net.csproj.GenerateResource.Cache
+C:\Documents and Settings\Amir\Desktop\Server_Net\Server_Net\obj\Debug\Server_Net.exe
+C:\Documents and Settings\Amir\Desktop\Server_Net\Server_Net\obj\Debug\Server_Net.pdb
+C:\Documents and Settings\Administrator\Desktop\Only Chat (Simple )\Server_Net\Server_Net\obj\Debug\Server_Net.exe
+C:\Documents and Settings\Administrator\Desktop\Only Chat (Simple )\Server_Net\Server_Net\obj\Debug\Server_Net.pdb
+C:\Documents and Settings\Administrator\Desktop\Only Chat (Simple )\Server_Net\Server_Net\bin\Debug\Server_Net.exe
+C:\Documents and Settings\Administrator\Desktop\Only Chat (Simple )\Server_Net\Server_Net\bin\Debug\Server_Net.pdb
+C:\Documents and Settings\Administrator\Desktop\Only Chat (Simple )\Server_Net\Server_Net\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Only Chat (Simple )\Server_Net\Server_Net\obj\Debug\Server_Net.frmMain.resources
+C:\Documents and Settings\Administrator\Desktop\Only Chat (Simple )\Server_Net\Server_Net\obj\Debug\Server_Net.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Only Chat (Simple )\Server_Net\Server_Net\obj\Debug\Server_Net.csproj.GenerateResource.Cache
